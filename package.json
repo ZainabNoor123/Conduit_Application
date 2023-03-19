@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TonyMckes/conduit-realworld-example-app.git"
+    "url": "git+https://github.com/ZainabNoor123/Conduit_Application.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TonyMckes/conduit-realworld-example-app/issues"
+    "url": "https://github.com/ZainabNoor123/Conduit_Application/issues"
   },
-  "homepage": "https://github.com/TonyMckes/conduit-realworld-example-app#readme",
+  "homepage": "https://github.com/ZainabNoor123/Conduit_Application/blob/main/README.md",
   "workspaces": [
     "backend",
     "frontend"
